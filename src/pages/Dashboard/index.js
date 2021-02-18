@@ -7,7 +7,6 @@ function Dashboard() {
     <div className="dashCard">
       <p className="alyssaD">Alyssa
       <br></br> DeMetro
-      <br></br>
       </p>
       <p className="navLinks"> 
       <a className="linksOne" href="/About">ABOUT</a> / 
