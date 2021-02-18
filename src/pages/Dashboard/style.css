@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
 body {
-    background-color: #ACD5D7;
+    background-color: black;
+   
 }
 
 .textWrap {
     float: left;
     width: 40%;
-    border-radius: 50%;
-    padding: 10px;
     margin: 30px;
 }
 
@@ -16,9 +15,11 @@ body {
     font-size: 600%;
     font-family: 'Playfair Display', serif;
     padding: 15px;
-    color: black;
+    color: #083D84;
     text-transform: uppercase;
 }
+
+
 
 .navLinks {
     font-size: 20px;
@@ -26,14 +27,19 @@ body {
     padding: 15px;
     text-align: center;
     font-family: 'Playfair Display', serif;
+    color: #083D84;
 }
 
 .linksOne, .linksTwo, .linksThree {
-    color: black;
+    color: #083D84;
     text-decoration: none;
     
 }
 .linksOne:hover, .linksTwo:hover, .linksThree:hover {
-    color: #FEA49E;
+    color: #FAD463;
     
+}
+
+.dashCard {
+    margin-top: -40px;
 }
