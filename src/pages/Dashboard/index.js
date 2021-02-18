@@ -5,8 +5,8 @@ import "./style.css"
 function Dashboard() {
   return (
     <div className="dashCard">
-      <img className="textWrap" src="https://i.imgur.com/wZQSWEt.jpg"></img>
-      <p className="alyssaD">Alyssa DeMetro
+      <p className="alyssaD">Alyssa
+      <br></br> DeMetro
       <br></br>
       </p>
       <p className="navLinks"> 
