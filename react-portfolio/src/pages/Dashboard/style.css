@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+body {
+    background-color: #f8e0fa;
+}
+
+.alyssaD {
+    font-size: 200%;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.dashCard {
+    text-align: center;
+}
+
+/* .dashText {
+    font-size: 150%;
+    font-family: 'Playfair Display', serif;
+    margin-top: -40px;
+} */

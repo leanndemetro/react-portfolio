@@ -4,9 +4,14 @@ import "./style.css"
 
 function Dashboard() {
   return (
-    <div className="dashCard">
-   <p className="alyssaD">Alyssa DeMetro</p>
-   <p className="dashText"> Is a Full-Stack Web Developer specializing in React.</p>
+    <div>
+      <img className="textWrap" src="https://i.imgur.com/oJ2NHaR.jpg"></img>
+      <p className="alyssaD">Alyssa DeMetro</p>
+      <p className="navLinks"> 
+      ABOUT / 
+      PORTFOLIO /
+      CONTACT
+      </p>
    </div>
    
   
