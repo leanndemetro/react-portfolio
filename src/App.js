@@ -4,8 +4,7 @@ import Dashboard from "./pages/Dashboard/index";
 import Contact from "./pages/Contact/index";
 import About from "./pages/About/index";
 import Portfolio from "./pages/Portfolio/index";
-import Navbar from "./components/Navbar/index"; 
-import Footer from "./components/Footer/index"
+ import Footer from "./components/Footer/index"
 
 
 
