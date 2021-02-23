@@ -1,14 +1,22 @@
 import React from "react";
-import { Router } from "react-router";
-import Navbar from "../../components/Navbar";
 import "./style.css"
+import { Container, Row, Col } from "react-bootstrap";
 
 
 
 
 function About() {
   return (
-   <Navbar />
+    <Container>
+    <Row>
+      <Col>
+   <span className="TITLE">
+    About.
+     </span>
+     </Col>
+   </Row>
+   </Container>
+     
   
    
   );

@@ -1,11 +1,19 @@
 import React from "react";
 import "./style.css"
+import { Container, Row, Col } from "react-bootstrap";
 
 
 function Portfolio() {
   return (
-   <p>portfolio</p>
-  
+    <Container>
+    <Row>
+      <Col>
+   <span className="TITLE">
+    Portfolio.
+     </span>
+     </Col>
+   </Row>
+   </Container>
 
   );
 }

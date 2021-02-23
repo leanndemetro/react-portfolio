@@ -7,11 +7,11 @@ class Navbar extends Component {
   render() {
     return (
       <span className="globalNavBar">
-      <ul>
-  <li><a className="NavBarLinks" href="/About">ABOUT</a></li>
-  <li><a className="NavBarLinks" href="/Portfolio">PORTFOLIO / </a></li>
-  <li><a className="NavBarLinks" href="/Contact">CONTACT / </a></li>
-  <li><a className="NavBarLinks" href="/"> HOME / </a></li>
+      <ul className="navUl">
+  <li className="navLi"><a className="NavBarLinks" href="/Contact">Contact</a></li>
+  <li className="navLi"><a className="NavBarLinks" href="/Portfolio">Portfolio</a></li>
+  <li className="navLi"><a className="NavBarLinks" href="/About">About</a></li>
+  <li className="navLi"><a className="NavBarLinks" href="/">Home</a></li>
 </ul>
 </span>
 

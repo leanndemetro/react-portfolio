@@ -5,6 +5,7 @@ import Contact from "./pages/Contact/index";
 import About from "./pages/About/index";
 import Portfolio from "./pages/Portfolio/index";
  import Footer from "./components/Footer/index"
+import Navbar from "./components/Navbar/index";
 
 
 
@@ -15,6 +16,7 @@ function App() {
   return (
     <Router>
       <div>
+        <Navbar />
           <Switch>
           <Route exact path={["/"]}>
             <Dashboard />

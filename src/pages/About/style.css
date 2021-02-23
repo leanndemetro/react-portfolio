@@ -1,0 +1,14 @@
+.TITLE {
+    color: white;
+   float: left;
+   font-size: 600%;
+   font-weight: bold;
+   padding: 20px;
+}
+
+
+.portImgOne {
+    float: right;
+    width: 50%;
+    margin: 20px;
+}
