@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css"
 import { Container, Row, Col } from "react-bootstrap";
+import { RiComputerLine } from "react-icons/ri"
 
 function Dashboard() {
   return (
@@ -8,8 +9,9 @@ function Dashboard() {
     <Row>
       <Col>
    <span className="TITLE">
-    ALYSSA DEMETRO.
+    Alyssa Leann DeMetro.
      </span>
+     <h3 className="sideText"> <RiComputerLine /> MERN Stack Web Developer </h3>
      </Col>
    </Row>
    </Container>

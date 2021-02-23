@@ -42,3 +42,8 @@ body {
 .dashCard {
     padding: 20px;
 }
+
+.sideText {
+    color: white;
+    font-weight: bold;
+}

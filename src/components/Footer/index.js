@@ -7,7 +7,7 @@ class Footer extends Component {
     render() {
         return (
             <footer className="footer">
-            <AiFillGithub /> <AiFillLinkedin />
+            <a  className="footerlinks" target="_blank" href="https://github.com/leanndemetro"><AiFillGithub /></a> <a target="_blank" className="footerlinks" href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/"><AiFillLinkedin /></a>
           </footer>
         );
     }
