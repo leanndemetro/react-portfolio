@@ -5,16 +5,21 @@ import { RiComputerLine } from "react-icons/ri"
 
 function Dashboard() {
   return (
-   <Container>
-    <Row>
-      <Col>
-   <span className="TITLE">
+  <div>
+    <hr></hr>
+   <p className="TITLEDash">
     Alyssa Leann DeMetro.
-     </span>
-     <h3 className="sideText"> <RiComputerLine /> MERN Stack Web Developer </h3>
-     </Col>
-   </Row>
-   </Container>
+     </p>
+     <hr></hr>
+     <div className="btnArea">
+    <p className="SUBDash"> MERN Stack Web Developer 
+    <br></br>
+    Certified by the University of Central Florida</p>
+    <br></br>
+    <a href="/About"><input className="dashBtn" type="button" value="LEARN MORE"></input></a>
+    </div>
+    <hr></hr>
+    </div>
 
    
   

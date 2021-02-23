@@ -39,11 +39,58 @@ body {
     
 }
 
-.dashCard {
-    padding: 20px;
+
+.TITLEDash {
+    text-align: center;
+    color: white;
+    font-size: 600%;
+    font-weight: bold;
+    
 }
 
-.sideText {
+.SUBDash {
+    text-align: center;
     color: white;
+    font-size: 200%;
     font-weight: bold;
 }
+
+hr {
+    border-width: 5px;
+    border-color: white;
+}
+
+.btnArea {
+    text-align: center;
+    background-color: #fad2ee;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 110%;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  text-transform: uppercase;
+
+}
+.dashBtn {
+    background-color: #d2ecfa;
+    border-color: #d2ecfa;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 100%;
+   padding: 15px;
+   margin-bottom: 10px;
+ 
+}
+
+.dashBtn:hover {
+   background-color: white;
+   border-color: white;
+   color: #d2ecfa;
+}
+
+
