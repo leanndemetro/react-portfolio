@@ -8,7 +8,7 @@ function Dashboard() {
   <div>
     <hr></hr>
    <p className="TITLEDash">
-    Alyssa DeMetro.
+    Alyssa DeMetro
      </p>
      <hr></hr>
      <div className="btnArea">
