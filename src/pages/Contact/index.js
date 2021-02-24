@@ -22,6 +22,7 @@ function Contact() {
    <Col sm={2}>
        </Col>
      <Col sm={8}>
+     <br></br>
        <div className="contactCardLeft">
        <Form>
   <Form.Group controlId="exampleForm.ControlInput1">
