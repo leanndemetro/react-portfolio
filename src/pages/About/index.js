@@ -42,9 +42,9 @@ function About() {
   <br></br></Row>
   <Row>
     <Col sm={8}>
-    <a className="resLink" target="_blank" href="https://media-exp1.licdn.com/dms/document/C562DAQElSRS2Jq1yZg/profile-treasury-document-pdf-analyzed/0/1604284163258?e=1614258000&v=beta&t=dSe4KCk6j7PeGz4D_1s1dagnpkGaVmaqINpGNuq5MXs">
+    <a className="resLink" target="_blank" href="https://www.linkedin.com/in/alyssa-de-metro-59abba1b0/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFMxcYB0XJ1lHN-GVVtohMQbcYjdf0W4pc,1614205808207)/">
   <div className="aboutCardRight">
-  <img className="resImg" src="https://i.imgur.com/BUtnhie.jpg"></img>
+  <img className="resImg" src="https://i.imgur.com/JJbbBz3.jpg"></img>
   </div>
   </a>
   <a href="/Portfolio"><input className="aboutContactBtn" type="button" value="VIEW MY PORTFOLIO"></input></a>
