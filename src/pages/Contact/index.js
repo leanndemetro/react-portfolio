@@ -45,8 +45,9 @@ function Contact() {
        </Col>
    </Row>
    <Row>
-   <br></br>
    <br></br></Row>
+   <hr></hr>
+   <br></br>
    </Container>
   
    
