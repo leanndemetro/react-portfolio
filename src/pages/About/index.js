@@ -39,15 +39,7 @@ function About() {
   <br></br></Row>
   <Row>
     <Col sm={8}>
-      <div className="aboutCardLeft">
-          <p className="aboutText">I have a fundamental working knowledge of HTML, CSS, JavaScript, jQuery, Node.js, Express.js, MySQL, MongoDB, Mongoose, React.js, and more. I have experience working with diverse teams or independently to meet demanding deadlines. I am confident and capable of building fully functional MERN stack web applications from start to finish. I am passionate about continuing my education and learning new technologies, and I have the patience and research skills necessary to resolve issues independently.
-            I am actively seeking intership, volunteer, or employment opportunities.
-          </p>
-          <a href="/Contact"><input className="contactBtn" type="button" value="Contact"></input></a>
-      </div>
-    </Col>
-     <Col sm={4}>
-     <a className="resLink" target="_blank" href="https://media-exp1.licdn.com/dms/document/C562DAQElSRS2Jq1yZg/profile-treasury-document-pdf-analyzed/0/1604284163258?e=1614258000&v=beta&t=dSe4KCk6j7PeGz4D_1s1dagnpkGaVmaqINpGNuq5MXs">
+    <a className="resLink" target="_blank" href="https://media-exp1.licdn.com/dms/document/C562DAQElSRS2Jq1yZg/profile-treasury-document-pdf-analyzed/0/1604284163258?e=1614258000&v=beta&t=dSe4KCk6j7PeGz4D_1s1dagnpkGaVmaqINpGNuq5MXs">
      <div className="aboutCardLeft">
         <p className="aboutText">View My Resume</p>
         </div>
@@ -55,6 +47,14 @@ function About() {
   <img className="resImg" src="https://i.imgur.com/BUtnhie.jpg"></img>
   </div>
   </a>
+    </Col>
+     <Col sm={4}>
+     <div className="aboutCardLeft">
+          <p className="aboutTextTwo"> I have a fundamental working knowledge of HTML, CSS, JavaScript, jQuery, Node.js, Express.js, MySQL, MongoDB, Mongoose, React.js, and more. I have experience working with diverse teams or independently to meet demanding deadlines. I am confident and capable of building fully functional MERN stack web applications from start to finish. I am passionate about continuing my education and learning new technologies, and I have the patience and research skills necessary to resolve issues independently.
+            I am actively seeking intership, volunteer, or employment opportunities.
+          </p>
+          <a href="/Contact"><input className="contactBtn" type="button" value="Contact"></input></a>
+      </div>
       </Col>
   </Row>
   <br></br>
