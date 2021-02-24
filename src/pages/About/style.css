@@ -77,9 +77,11 @@
     opacity: 0.7;
 }
 
-.contactBtn {
-    background-color: #d2ecfa;
-    border-color: #fad2ee;
+.aboutContactBtn {
+    background-color: #fad2ee;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
     border-radius: 5px;
     color: white;
     font-weight: bold;
@@ -90,9 +92,8 @@
     margin-top: 5px;
 }
 
-.contactBtn:hover {
-   background-color: #fad2ee;
-   border-color: #d2ecfa;
+.aboutContactBtn:hover {
+   background-color: #d2ecfa;
    border-style: solid;
    border-width: 3px;
 }
