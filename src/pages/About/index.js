@@ -22,7 +22,7 @@ function About() {
   <Row>
   <Col sm={4}>
   <div className="aboutCardRight">
-        <img className="meImg" src="https://i.imgur.com/dry8RG7.jpg"></img>
+        <img className="meImg" src="https://i.imgur.com/dry8RG7.jpg?1"></img>
   </div>
   <div className="aboutCardLeft">
         <p className="aboutText">My name is Alyssa DeMetro - I'm an Orlando Native, and a graduate of the University Of Central Florida Full-Stack Coding Bootcamp.</p>
