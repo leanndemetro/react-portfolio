@@ -32,6 +32,9 @@ function About() {
       <div className="aboutCardRight">
         <a target="_blank" href="https://api.badgr.io/public/assertions/tDt35IJZQT-VVtAvMjxGfA?identity__email=leanndemetro%40gmail.com"><img className="certImg" src="https://i.imgur.com/ZEsoyI7.jpg"></img></a>
       </div>
+      <br></br>
+      <br></br>
+      <hr></hr>
       
     </Col>
   </Row>
