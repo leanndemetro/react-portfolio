@@ -1,8 +1,18 @@
+.portImg {
+    width: 87%;
+}
+.portImgTwo {
+    width: 100%;
+}
+.portImgThree {
+    width: 100%;
+}
 
 
-
-.portImgOne {
-    float: right;
-    width: 50%;
-    margin: 20px;
+.portCardLeft {
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
 }
