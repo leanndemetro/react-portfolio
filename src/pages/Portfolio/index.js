@@ -23,22 +23,24 @@ function Portfolio() {
      <hr></hr></Col>
    </Row>
    <Row>
-     <Col sm={6}>
+   <Col sm={6}>
        <div className="portCardLeft">
-         <a target="_blank" className="certImg" href="https://murmuring-meadow-11462.herokuapp.com/"><img alt="budgetTracker" className="portImg" src="https://i.imgur.com/YxrUmX9.jpg"></img></a> </div>
+       <a target="_blank" className="certImg" href="https://compost-incorp.herokuapp.com/"><img alt="compostInc" className="portImg" src="https://i.imgur.com/IaEVHCT.jpg"></img></a> </div>
      </Col>
      <Col sm={6}>
-     <div className="portCardLeft">
-     <a target="_blank" className="certImg" href="https://safe-brook-64265.herokuapp.com/"><img alt="workoutTracker" className="portImgTwo" src="https://i.imgur.com/py6Xoo5.jpg"></img></a>
-      </div>
-       </Col>
+       <div className="portCardLeft">
+         <a target="_blank" className="certImg" href="https://murmuring-meadow-11462.herokuapp.com/"><img alt="budgetTracker" className="portImgTwo" src="https://i.imgur.com/YxrUmX9.jpg"></img></a> </div>
+     </Col>
    </Row>
    <Row>
      <Col sm={6}>
        <div className="portCardLeft">
-       <a target="_blank" className="certImg" href="https://shrouded-stream-06971.herokuapp.com/"><img alt="eatDaBurger" className="portImgThree" src="https://i.imgur.com/m3SnOYK.jpg"></img></a> </div>
+       <a target="_blank" className="certImg" href="https://shrouded-stream-06971.herokuapp.com/"><img alt="eatDaBurger" className="portImg" src="https://i.imgur.com/m3SnOYK.jpg"></img></a> </div>
      </Col>
      <Col sm={6}>
+     <div className="portCardLeft">
+     <a target="_blank" className="certImg" href="https://safe-brook-64265.herokuapp.com/"><img alt="workoutTracker" className="portImgFour" src="https://i.imgur.com/py6Xoo5.jpg"></img></a>
+      </div>
        </Col>
    </Row>
    <Row>

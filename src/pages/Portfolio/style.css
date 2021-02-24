@@ -1,11 +1,12 @@
 .portImg {
-    width: 87%;
+    width: 100%;
 }
 .portImgTwo {
-    width: 100%;
+    width: 98%;
 }
-.portImgThree {
+.portImgFour {
     width: 100%;
+    height: 216px;
 }
 
 
