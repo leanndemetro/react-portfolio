@@ -32,9 +32,9 @@ function Portfolio() {
      </Col>
    </Row>
    <Row>
-     <Col sm={6}>
+   <Col sm={6}>
        <div className="portCardLeft">
-       <a rel="noreferrer" target="_blank" className="certImg" href="https://shrouded-stream-06971.herokuapp.com/"><img alt="eatDaBurger" className="portImg" src="https://i.imgur.com/m3SnOYK.jpg"></img></a> </div>
+       <a rel="noreferrer" target="_blank" className="certImg" href="https://leanndemetro.github.io/workDayScheduler/"><img alt="eatDaBurger" className="portImg" src="https://i.imgur.com/g3L1WV7.jpg"></img></a> </div>
      </Col>
      <Col sm={6}>
      <div className="portCardLeft">
